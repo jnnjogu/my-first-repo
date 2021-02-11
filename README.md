@@ -32,3 +32,16 @@ Bye!
 3. DS
 
 **Role:** Software Developer
+
+### Kauthar Omar
+
+Hello meet Kauthar a bioinformatics intern at icipe
+
+## Interests
+
+Genomics: currently on the journey towards tackling it from a computational point of view.
+
+I welcome you all to contribute towards my journey.
+
+:tada:
+
